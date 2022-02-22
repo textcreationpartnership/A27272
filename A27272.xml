@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Behavior, last words, non-confession, and just execution of Richard Langhorne, counsellor at law, for high-treason, at Tyburn, on Monday the 14th of July, 1679</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27272</idno>
+            <idno type="STC">Wing B1708B</idno>
+            <idno type="STC">ESTC R39527</idno>
+            <idno type="EEBO-CITATION">18426330</idno>
+            <idno type="OCLC">ocm 18426330</idno>
+            <idno type="VID">107609</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107609)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1627:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Behavior, last words, non-confession, and just execution of Richard Langhorne, counsellor at law, for high-treason, at Tyburn, on Monday the 14th of July, 1679</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date, place of publication suggested by Wing.</note>
+                  <note>Imperfect: stained, torn.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Langhorne, Richard, 1654-1679.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:107609:1"/>
+            <!-- PDF PAGE 45 -->
+            <head>THE Behaviour, laſt Words, Non-Confeſſion, And juſt EXECUTION OF Richard Langhorne, Counſellor at Law, For HIGH-TREASON, AT TYBURN, On <date>
+                  <hi>Monday</hi> the 14th of <hi>July,</hi> 1679.</date>
+            </head>
+            <p>MR. <hi>Langhorne</hi> received his Tryal on <hi>Friday</hi> the 13th of <hi>June;</hi> and being Convicted, had Sentence of death paſs'd upon him, together with Father <hi>White-bread</hi> and the other four Jeſuits ſince Executed on the 20th of the ſame month; but he alleadging multipli<g ref="char:EOLhyphen"/>city of other perſons Concerns that lay in his hands, did deſire and obtained a reſpite of Execution, that he might have time to ſettle thoſe Affairs. There was good hopes he might have made an ingenuous Diſcovery of this damnable Plot, being without doubt as able to do it as moſt concern'd therein, ſince as he had many years been the general Conveyancer for ſetling Papiſts Eſtates, who contrive them ſo perplexedly, and with ſuch ſubtilty, that 'tis almoſt impoſſible to finde out where, or in
+<pb n="2" facs="tcp:107609:2"/>
+               <!-- PDF PAGE 46 -->whom the Propriety is veſted; which is purpoſely done, to a<g ref="char:EOLhyphen"/>void the Penalties and Forfeitures inflicted by Law for their Re<g ref="char:EOLhyphen"/>cuſancy: So in particular he was a Truſtee, and manag'd Af<g ref="char:EOLhyphen"/>fairs for the Jeſuits; of which Society he was too great an Ad<g ref="char:EOLhyphen"/>mirer, and ſo far influenced by them, as brought him to this Untimely End. He pretended to declare what he knew con<g ref="char:EOLhyphen"/>cerning Eſtates by them purchaſed in <hi>England,</hi> but with what ſin<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erity may eaſily be imagined.</p>
+            <p>As to the Crimes proved upon him, they were Treaſons of the blackeſt die; that he was ſo far intereſted in this horrid Plot, as to be deſigned. Advocate-General of their Army; and in the mean time intruſted with Regiſtring all their Conſults and Orders, and keeping their Commiſſions who were to have Commands. His Helliſh zeal was notorious, in that curſed ex<g ref="char:EOLhyphen"/>preſſion, when <hi>Wakeman</hi> refuſed to accept of 10000 <hi>l.</hi> to poi<g ref="char:EOLhyphen"/>ſon our Sacred Sovereign, as being too little a Sum; this Gen<g ref="char:EOLhyphen"/>tleman ſaid, He was a pitiful Narrow-ſoul'd Phyſitian, to ſtand upon Money in ſuch a caſe, which any good Catholick would, or ought to do <hi>gratis.</hi> But the exact Account of his Tryal is abroad in Print; and thereunto we refer the Reader for ſatiſ<g ref="char:EOLhyphen"/>faction, as to what was proved againſt him.</p>
+            <p>He had abundance of people came to viſit him in <hi>Newgate,</hi> during the time of his Reprieve, and ſeem'd to have been not a little deſirous to live; but his Party did ſo continually ply him with Lectures of perſeverance, and the goodneſs of the Cauſe for which he was to ſuffer, how much he would merit by concealing, and how damnable a thing it would be for him to ſcandalize the Church by making any Diſcovery, that at laſt he was prevailed with to ſtand it out like the reſt in ob<g ref="char:EOLhyphen"/>ſtinate denyals, and making big proteſtations of innocency. Nay, that he might be ſure not to confeſs his horrid Treaſons, and give glory to God before he went out of the world, there was a Declaration, (as they call'd it) or Solemn Proteſt before<g ref="char:EOLhyphen"/>hand, publiſht in his name, utterly denying his Crimes, and (as it were) directing him what he ſhould ſay when he came to the place of Execution: ſo active and induſtrious are theſe Ghoſt<g ref="char:EOLhyphen"/>ly
+<pb n="3" facs="tcp:107609:2"/>
+               <!-- PDF PAGE 46 -->Traitors, to hide that which God will have revealed, to ſtifle all noiſe of this their deteſtable PLOT; as if impu<g ref="char:EOLhyphen"/>dent denyals, and thread-bare pretences of being <hi>as innocent as the Child unborn,</hi> could make us diſ-believe our Senſes, and never think ſuch harmleſs Lambs as <hi>Roman</hi>-Catholicks guilty of any Ill-meaning to us, till actually we find their hands em<g ref="char:EOLhyphen"/>brew'd in our Blood, and our Throats cut by their cruelties; as within our memory hapned in <hi>Ireland,</hi> and before that at <hi>Paris,</hi> and many other places.</p>
+            <p>He was certainly a man of good natural parts; and had he not been bewitcht by that peſtilent Society which diſturbs all Chriſtendom, might have been a good Subject. But they had got ſuch an influence over him, that they led him to do what they liſt: his Sons were bred amongſt them in <hi>Spain,</hi> that they might betimes be tinctur'd with Traiterous Principles; and one of them is now in <hi>Newgate</hi> on the account of the PLOT.</p>
+            <p>As Mr. <hi>Langhorn</hi> was naturally a perſon of a Melancholy Temper, and a ſober diſcreet Behaviour; ſo he deported himſelf, both during his Confinement, and in his paſſage to Execution, with a great deal of gravity, often lifting up his hands and eyes, and ſeeming to pronounce to himſelf certain Prayers and Ejaculations.</p>
+            <p>He went from <hi>Newgate</hi> about half an hour after Nine, drawn in a Sled with four horſes, and a Boy riding on the foremoſt as a Poſtilion. He was in a decent Black Suit, a mo<g ref="char:EOLhyphen"/>deſt Perriwig, and plain Band.</p>
+            <p>Being come to <hi>Tyburn,</hi> according to the Jeſuits Directory, and uſual form of his Brethren, he reſolutely deni'd the Fact he died for; pretended a great deal of Loyalty; not forget<g ref="char:EOLhyphen"/>ting to be as innocent as the unborn Babe; deſired God to forgive his Enemies, and ſeveral diſcourſes to that purpoſe.</p>
+            <p>
+               <pb n="4" facs="tcp:107609:3"/>
+               <!-- PDF PAGE 47 -->
+His Prayers were chiefly private, or with a very low voice, ſo that they could not well be heard by the people at a diſtance: but thoſe that ſtood near, related, That they were in Latine; whence they were ſuppoſed to be <hi>Pater Noſters</hi> and <hi>Ave's.</hi>
+            </p>
+            <p>Thus ſuffer'd this unhappy man, hurried on to his own Ru<g ref="char:EOLhyphen"/>ine, and rather chuſing to caſt away his Life, and venture his Soul, for the Airy conceit of being enroll'd one of <hi>Rome</hi>'s Mar<g ref="char:EOLhyphen"/>tyrs, than to preſerve both by an honeſt Chriſtian Acknow<g ref="char:EOLhyphen"/>ledgement of his vile Traiterous Practices, and diſcovery of his Accomplices therein.</p>
+            <p>He was ſuffered to hang till he was quite dead, and then cut down and quartered according to the Sentence; but his Body was begg'd, ſo as not to be expoſed on the City-gates, but car<g ref="char:EOLhyphen"/>ried away by his Friends in order to a private Interment.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
